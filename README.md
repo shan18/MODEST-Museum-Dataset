@@ -338,3 +338,8 @@ bg050_fg084_17.jpeg     90      70      39      108
 ```
 The steps for calculation of bounding box for each image is described in [this](#overlaying-foregrounds-on-backgrounds) section.
 
+## Contributors
+
+- [Rakhee Sharma](https://github.com/rvk007)
+- [Shantanu Acharya](https://github.com/shan18)
+
