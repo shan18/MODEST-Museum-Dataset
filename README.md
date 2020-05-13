@@ -1,6 +1,6 @@
 # MOnocular Depth Estimation and SegmenTation (MODEST) Museum Dataset
 
-Link to Dataset: [https://drive.google.com/open?id=15cmtEneHL-Nx8aRE59cfp35Au6qufvIh](https://drive.google.com/open?id=15cmtEneHL-Nx8aRE59cfp35Au6qufvIh)
+Link to Dataset: [https://www.kaggle.com/shanwizard/modest-museum-dataset](https://www.kaggle.com/shanwizard/modest-museum-dataset)
 
 ## Directory Structure
 
@@ -337,4 +337,9 @@ bg050_fg084_17.jpeg     90      70      39      108
 ...
 ```
 The steps for calculation of bounding box for each image is described in [this](#overlaying-foregrounds-on-backgrounds) section.
+
+## Contributors
+
+- [Rakhee Sharma](https://github.com/rvk007)
+- [Shantanu Acharya](https://github.com/shan18)
 
